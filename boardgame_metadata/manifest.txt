@@ -1,0 +1,5 @@
+games_detailed_info-1.csv
+games_detailed_info-2.csv
+games_detailed_info-3.csv
+games_detailed_info-4.csv
+games_detailed_info-5.csv
